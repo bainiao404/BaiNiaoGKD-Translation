@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-10-29T23:30:10.563Z",
+  "games": {
+    "zh-CN/Grenzex": {
+      "version": "1.0.0",
+      "generatedAt": "2026-10-29T20:09:25.103Z",
+      "totalCount": 25461,
+      "chunks": 330,
+      "zip": "zh-CN-Grenzex.zip",
+      "zipMd5": "4bd5a3a34b5918872794c349c618ddc8",
+      "zipBytes": 2064516
+    },
+    "zh-CN/LilYangeNext": {
+      "version": "1.0.0",
+      "generatedAt": "2026-10-29T02:16:23.843Z",
+      "totalCount": 88985,
+      "chunks": 1111,
+      "zip": "zh-CN-LilYangeNext.zip",
+      "zipMd5": "6b992af1626b3b19ec03b42462b7fcff",
+      "zipBytes": 6821582
+    },
+    "zh-CN/RlyehShoujotaix": {
+      "version": "1.0.0",
+      "generatedAt": "2026-10-28T09:46:35.133Z",
+      "totalCount": 49671,
+      "chunks": 705,
+      "zip": "zh-CN-RlyehShoujotaix.zip",
+      "zipMd5": "8b018f17f0ee0ecbf7f123e87b81fbf4",
+      "zipBytes": 4018812
+    },
+    "zh-CN/Siprj": {
+      "version": "1.0.0",
+      "generatedAt": "2026-10-28T00:22:53.755Z",
+      "totalCount": 58660,
+      "chunks": 955,
+      "zip": "zh-CN-Siprj.zip",
+      "zipMd5": "1a7eeb4f954c06e6a8f793f0383d335c",
+      "zipBytes": 4976984
+    }
+  }
+}

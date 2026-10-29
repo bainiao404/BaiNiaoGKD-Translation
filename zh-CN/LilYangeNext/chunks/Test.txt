@@ -1,0 +1,6 @@
+# BNT 1.1 | Type: Chunk | Chunk: Test | Game: LilYangeNext
+S:Doctor:Hello World
+T:医生：你好，世界
+
+S:Hello World
+T:你好，世界

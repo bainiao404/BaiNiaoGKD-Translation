@@ -1,0 +1,3 @@
+# BNT 1.1 | Type: Chunk | Chunk: 1010 | Game: Grenzex
+S:[@title2]第一節/破られた静寂
+T:第一节/被打破的寂静
