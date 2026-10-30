@@ -1,0 +1,216 @@
+# BNT 1.1 | Type: Chunk | Chunk: 100000101 | Game: Siprj
+S:――ついに、[delay 0.5]この日がやってきた。
+T:--At last, [delay 0.5] this day has arrived.
+
+S:俺たちの新しい事務所、[delay 0.5]\\nルクスプロダクションが、[delay 0.3]本日から始動する。
+T:Our new office, [delay 0.5]\\nLux Production, will be launching from today. [delay 0.3]
+
+S:先輩、やりましたね。
+T:Senior, you did it.
+
+S:ああ……[delay 0.5]長いような、[delay 0.3]あっという間だったような――[delay 0.5]\\nとにかく、[delay 0.3]これが俺たちの夢をかなえる第一歩だ。
+T:Ah... [delay 0.5] It felt like it took forever, and yet [delay 0.3] it was over in the blink of an eye――[delay 0.5]\\nAnyway, [delay 0.3] this is the first step toward making our dream come true.
+
+S:ゆっくり息を吸うと、新しい内装の匂いが鼻に抜ける。[delay 0.5]\\n日本を照らすスター[delay 0.5]、トップアイドルを育成するため、[delay 0.3]\\n俺たちはこのルクスプロダクションを立ち上げたのだ。
+T:Taking a slow breath, I can smell the scent of the new interior. [delay 0.5]\\nTo cultivate stars who will shine upon Japan and top idols, [delay 0.5]\\nwe established this Lux Production. [delay 0.3]
+
+S:先輩、これから一緒に頑張っていきましょうね。
+T:Senior, let's work hard together from now on.
+
+S:……ああ！
+T:...Ah!
+
+S:（……まだアイドルもいないし、[delay 0.3]先行きも見えていない。[delay 0.5]\\nけれど一生懸命やっていけばいつかは……！）
+T:(...We don't even have any idols yet, [delay 0.3] and the future is still unclear. [delay 0.5]\\nBut if we do our best, someday...!)
+
+S:……こんなみすぼらしい小屋で満足げな顔なんて。\\n元ヤミノ社員として恥ずかしくないの？
+T:...Wearing such a satisfied face in this shabby little shack.\\nAren't you ashamed of yourself, former Yamino employee?
+
+S:……っ！\\nその声――
+T:...!\\nThat voice—
+
+S:聞き覚えのある冷たい声に慌てて振り返る。[delay 0.5]\\n俺たちの事務所に無遠慮に入ってきたのは……。
+T:Startled by the familiar cold tone, I hurriedly turned around. [delay 0.5]\\nThe one who had barged into our office without a shred of courtesy was... .
+
+S:…[delay 0.3]…[delay 0.3][ruby 千里 せんり]社長。[delay 0.5]お久しぶりです。
+T:…[delay 0.3]…[delay 0.3][ruby Chisari せんり]President. [delay 0.5]It's been a while.
+
+S:日本でも有数の大手芸能事務所[delay 0.3]\\n「ヤミノカンパニー」の社長、[delay 0.5]千里かおるだった。
+T:The president of one of Japan's top entertainment agencies, [delay 0.3]\\n"Yamino Company," was [delay 0.5]Kaoru Chisari.
+
+S:……ふん。
+T:...Hmph.
+
+S:どうもー。\\n
+T:Hey there.
+
+S:[ruby 夜乃 よの]さん……！
+T:[ruby Yono よの]-san……!
+
+S:椎奈ちゃん、久しぶり～。\\nノックしても返事がなかったから、入ってきちゃった！
+T:Shina-chan, it's been a while~.\\nI knocked but got no answer, so I just came in!
+
+S:千里社長の傍らにはもう1人、[delay 0.5]グラマーな女性の姿。\\n
+T:Beside President Chizuru stood another [delay 0.5] glamorous woman.
+
+S:彼女はヤミノカンパニーの看板ユニットの1つ――[delay 0.5]\\n「Vivid」の夜乃すずかだ。
+T:She is one of the flagship units of Yami Company――[delay 0.5]\\nYuno Suzuka of "Vivid".
+
+S:…[delay 0.3]…[delay 0.3]それで、[delay 0.3]なんの用でしょうか。[delay 0.5]\\nまさか事務所設立を祝いにきてくれたんですか？
+T:…[delay 0.3]…[delay 0.3]So, [delay 0.3]what is your business? [delay 0.5]\\nCould it be that you came to congratulate us on the establishment of our agency?
+
+S:……最終通告をしにきただけ。\\nヤミノカンパニーに戻ってきなさい。\\n今なら許してあげる……。
+T:……I only came to deliver a final notice.\\nReturn to Yami Company.\\nIf you do so now, I will forgive you….
+
+S:あなたのことも、椎奈のことも結構評価してるの。\\nその生意気な考えと性格さえ叩き直せば、\\nまだ充分金を稼いでくれるでしょうから。
+T:I actually rate both you and Shina quite highly.\\nAs long as we can knock that impudent mindset and personality out of you,\\nyou should still be able to earn plenty of money for us.
+
+S:…[delay 0.3]…[delay 0.3]俺は、[delay 0.3]そういう考えが嫌で退職したんですよ。
+T:…[delay 0.3]…[delay 0.3]I resigned, [delay 0.3]because I hated that kind of thinking.
+
+S:お金を使って才能をかき集めて、\\nお金の力で無理やり売り出していく……。\\nそんな考えに賛同できなくて、私たちは独立したんですよ。
+T:Gathering talent by spending money,\\nand forcibly pushing them to sell using the power of money……\\nWe couldn't agree with such a mindset, so we went independent.
+
+S:アイドルの気持ちも考えず売り出そうとするなんて、[delay 0.3]\\nそんなの健全じゃない。[delay 0.5]…[delay 0.3]…[delay 0.3]君は満足しているのか？
+T:Trying to sell them off without considering the idols' feelings, [delay 0.3]\\nThat's not healthy at all. [delay 0.5]…[delay 0.3]…[delay 0.3]Are you satisfied with that?
+
+S:俺はすずかに視線を向ける。[delay 0.5]\\n彼女は小さく苦笑すると、[delay 0.3]肩をすくめた。
+T:I turn my gaze toward Suzuka. [delay 0.5]\\nShe gives a small, bitter smile and [delay 0.3]shrugs her shoulders.
+
+S:ま、あたしはそんな情熱とかないからね～。\\nあ、でもきみみたいな熱い男の人にプロデュースされたら……\\n興奮しちゃうかも♥
+T:Well, I don't really have that kind of passion or anything~.\\nAh, but if you were to produce me, a passionate guy like you……\\nI might get excited♥
+
+S:ね、スカウトしてみる？
+T:Hey, want to try scouting her?
+
+S:……すずか。
+T:……Suzuka.
+
+S:あはは、冗談冗談。\\nさすがのあたしもこんな小っちゃい事務所に\\n移籍するつもりとかないから。
+T:Ahaha, just kidding.\\nEven I wouldn't think about transferring to a tiny agency like this one.
+
+S:……この事務所――ルクスプロダクションといった？\\nまだ1人もアイドルがいないんでしょ。
+T:……This agency—Lux Production, right?\\nYou still don't have any idols there, do you?
+
+S:あなた、ウチにいたころは口癖のように\\n「トップアイドルを育てる。それが俺の夢だ！」な～んて\\n言ってたけど……
+T:When you were with us, it was your catchphrase:\\n"I'll raise the top idol. That's my dream!"\\nBut……
+
+S:……ふふ、本当にこんなところで夢を叶えられるの？
+T:……Heh, can you really make your dreams come true in a place like this?
+
+S:ぐっ……！
+T:Guh...!
+
+S:ルクスプロダクションにはまだ1人も所属アイドルがいない。[delay 0.5]\\n俺もスカウトに奔走しているのだがすべて空振り。[delay 0.5]\\nアイドル不在のまま、事務所だけ先に用意できてしまった。
+T:Lux Production still has no idols under contract. [delay 0.5]\\nI've been running around trying to scout some, but every attempt has come up empty. [delay 0.5]\\nWe ended up setting up the office before we even had a single idol.
+
+S:ああ……ごめんなさいね。\\n別にあなたをいじめる意図なんてないの。
+T:Ah... I'm sorry.\\nI didn't mean to bully you or anything like that.
+
+S:……えっ？
+T:...Huh?
+
+S:千里社長の優しい声色に思わず顔を上げる。[delay 0.5]\\n彼女がこんな殊勝な態度をとったのは初めて見た。
+T:I couldn't help but look up at the gentle tone in President Chizuru's voice. [delay 0.5]\\nIt was the first time I'd ever seen her act so considerate.
+
+S:あなたみたいなヤミノカンパニーから逃げ出した負け犬を\\nいじめたって何の意味もない。
+T:There's no point in bullying a loser who ran away from Yami Company like you.
+
+S:あなたと椎奈という労働力がヤミノカンパニーに\\n戻ってくる気がないかだけを確認しにきたんだけど……\\n時間の無駄だったみたいね。
+T:I only came here to check if you and Shina had any intention of returning your labor force to Yami Company...\\nLooks like it was a waste of time, though.
+
+S:事務所が倒産しても、ヤミノカンパニーに戻ってこないで。\\nもうあなたたちの居場所なんてないから。
+T:Even if the agency goes bankrupt, don't come back to Yami Company.\\nThere's no place for you anymore.
+
+S:千里社長は俺たちに背を向けると、[delay 0.3]\\nコツコツと足音をたて、[delay 0.3]出口から出て行った。
+T:President Chizuru turned her back on us,\\n[delay 0.3]\\ntapping her feet as she walked,\\n[delay 0.3]and left through the exit.
+
+S:あはは、ごめんねー？
+T:Hehe, sorry?
+
+S:機会があったらまた会おうね。\\nじゃあね～！
+T:Let's meet again when we get the chance.\\nBye~!
+
+S:……なんだったんですかね。
+T:...What was that about?
+
+S:さあな[delay 0.3]…[delay 0.3]…嵐のように来て、[delay 0.3]去っていったな。
+T:Well then [delay 0.3]… [delay 0.3]… they came like a storm and went away, [delay 0.3].
+
+S:前職の社長の嫌味なんて気にする必要はない。[delay 0.5]\\n俺は俺がすべきことをして、[delay 0.3]\\nアイドルたちを羽ばたかせるだけだ。
+T:There's no need to worry about the passive-aggressiveness of your former president.\\n[delay 0.5]\\nI'll do what I'm supposed to do, and\\n[delay 0.3]\\nhelp the idols spread their wings.
+
+S:（……ってことはわかってるんだけどな。[delay 0.5]\\n所属アイドルゼロ、[delay 0.5]先行きが明るくなる見通しもないし……）
+T:(I know that much. [delay 0.5]\\nAffiliated idols: zero, [delay 0.5] There's no sign of things getting any better...)
+
+S:はぁ、[delay 0.5]と思わずため息が漏れてしまう。
+T:Haa... I can't help but let out a sigh at [delay 0.5].
+
+S:……先輩。\\n落ち込んでる暇なんてないですよ！\\nこの後予定が入ってるんですからね。
+T:...Senpai.\\nThere's no time to be down!\\nI have plans scheduled after this, you know.
+
+S:えっ？[delay 0.5]\\nそんなの知らないぞ。[delay 0.5]見落としてたかな……。
+T:Huh? [delay 0.5]\\nI don't know about that. Maybe I missed it with [delay 0.5]...
+
+S:いえ、今初めて言いました。\\n事務所のことでバタバタしてたので\\n伝えるタイミングがなかったんです。
+T:No, this is the first time I'm saying it.\\nThings were hectic at the agency,\\nso I never had a chance to tell you.
+
+S:あのなぁ[delay 0.3]…[delay 0.3]…。[delay 0.5]\\n俺が他の予定を入れてたらどうするつもりだったんだ。
+T:Hey now [delay 0.3]... [delay 0.3]... [delay 0.5]\\nWhat were you planning if I had other commitments?
+
+S:アイドルが1人もいない事務所のプロデューサーに\\n予定なんてはいるはずないでしょ。
+T:A producer at an agency with not a single idol\\nwouldn't have any schedules to begin with.
+
+S:うっ……[delay 0.5]まあ、[delay 0.3]それはそうだが。[delay 0.5]\\nで、[delay 0.3]なんの用事なんだ？
+T:Ugh... [delay 0.5] Well, [delay 0.3] that's true. [delay 0.5]\\nSo, what do you want from me with [delay 0.3]?
+
+S:実は、ウチの事務所のホームページに\\nアイドルの応募があったんですよ。
+T:Actually, we received an idol application\\non our agency's homepage.
+
+S:だからこれから先輩には、\\nアイドル志望者と面接してもらいます。
+T:So from now on, Senpai,\\nplease interview the aspiring idols.
+
+S:…[delay 0.3]…[delay 0.3]なるほど面接か。
+T:...[delay 0.3]...[delay 0.3]I see, an interview.
+
+S:<size=46>えっ!?</size>[delay 0.5]\\nそういう大事なことはちゃんと伝えてくれよ！
+T:<size=46>Huh!?</size>[delay 0.5]\\nYou should have told me about something this important properly!
+
+S:だから今伝えたじゃないですか。
+T:I just told you now, didn't I?
+
+S:そうじゃなくて、[delay 0.5]もっと早くって意味で……。
+T:That's not what I meant. [delay 0.5]I meant 'much earlier'...
+
+S:その時だった。[delay 0.5]\\n軽いノックの音がした。
+T:It was at that moment. [delay 0.5]\\nA light knock sounded.
+
+S:こんにちはー！\\n本日面接をお願いしていたものです。
+T:Hello!\\nI'm the one you requested to interview today.
+
+S:よく通る、[delay 0.3]明るい声が扉越しに聞こえてくる。[delay 0.5]\\nまさにアイドルというべき、元気を貰える声だ。
+T:A clear,\\n[delay 0.3]bright voice can be heard through the door. [delay 0.5]\\nIt's truly a voice that embodies an idol, one that gives you energy.
+
+S:（…[delay 0.3]…[delay 0.3]扉の向こうに、志望者がいるのか）
+T:(...[delay 0.3]...[delay 0.3]Is there an applicant on the other side of the door)
+
+S:ウチの事務所の最初のアイドルに\\nなってくれるかもしれない子だ。[delay 0.5]\\nそう思うと体が少し震えた。
+T:She might become the first idol at our agency. [delay 0.5]\\nThinking that, my body trembled slightly.
+
+S:……ええと、入ってもよろしいですかー？
+T:...Um, may I come in?
+
+S:ああ、[delay 0.3]どうぞ。[delay 0.5]お入りください。
+T:Ah, [delay 0.3] please do. [delay 0.5] Come on in.
+
+S:はいっ！\\n失礼します……！
+T:Yes!\\nI'm sorry for the intrusion...!
+
+S:そう言って入ってきた子は――
+T:The girl who came in saying that was—
+
+S:ひっ、[ruby 陽葵 ひまり]まゆといいます！\\nほんじつは、よろしく、おねがいしましゅ……！
+T:H-hi, I'm [ruby Mayu Hinoki ひまり]!\\nIt's nice to meet you today...!
+
+S:緊張が張り付いた笑顔を浮かべて、[delay 0.5]\\nそして盛大に嚙みまくっていた。
+T:She wore a smile stuck with tension, [delay 0.5]\\nand was stuttering badly.

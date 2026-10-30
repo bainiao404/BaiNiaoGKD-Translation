@@ -1,0 +1,174 @@
+# BNT 1.1 | Type: Chunk | Chunk: 100000201 | Game: Siprj
+S:それでは1週間後に出演するイベントに向けて……
+T:So, in preparation for the event we're performing at a week from now...
+
+S:大掃除を始めます！
+T:Let's start the big cleaning!
+
+S:おーっ！
+T:Yaaah!
+
+S:現在俺たちがいるのはルクスプロのレッスン室。[delay 0.5]\\n事務所と同じビル内に入っており自由に使用できる空間だ。
+T:Right now, we are in Lux Pro's practice room. [delay 0.5]\\nIt is located within the same building as our agency and is a space we can use freely.
+
+S:……それにしても、うちの事務所にこんな立派な\\nレッスン室があったんですねぇ。
+T:...And yet, I didn't know our agency had such a magnificent \\npractice room.
+
+S:まあ、弱小事務所には分不相応だよな。[delay 0.5]\\n実は大家さんのご厚意で使わせてもらっているんだ。
+T:Well, it's quite out of place for a small agency. [delay 0.5]\\nActually, we are allowed to use it thanks to the landlord's kindness.
+
+S:大家さん……ですか？
+T:The landlord...?
+
+S:ああ。[delay 0.5]このビルのオーナーなんだけど……[delay 0.3]\\nなんでもアイドルが大好きだそうで。[delay 0.5]\\n事務所も相場よりも安く貸してもらってるんだ。
+T:Ah yes. [delay 0.5]He is the owner of this building, and... [delay 0.3]\\nI hear he absolutely loves idols. [delay 0.5]\\nWe even get to rent our office at a rate lower than market price.
+
+S:まあ、その代わりに自分たちで掃除して使えって\\nことみたいですけど……。
+T:Well, it seems they're saying that in return,\\nwe should clean and use the place ourselves...
+
+S:レッスン室の設備は充分にそろっているが、\\n長い間使っていなかったのかホコリが積もってしまっている。
+T:The lesson room is fully equipped, but\\nit hasn't been used for a long time, so dust has accumulated.
+
+S:ひとまず俺は高いところのホコリ払いと、[delay 0.3]\\n窓ふきでもやろうかな……。
+T:For now, I'll try to dust the high places and [delay 0.3]\\nclean the windows...
+
+S:私と陽葵さんは床の掃き掃除と……\\n設備のチェックでもしましょうか。
+T:Ms. Hinagi and I will sweep the floor and...\\ncheck the equipment.
+
+S:はいっ、わかりました！\\n早速はじめましょう！
+T:Yes, understood!\\nLet's get started right away!
+
+S:（…[delay 0.3]…[delay 0.3]アイドルだっていうのに\\nこんなことさせてなんだか申し訳ないな）
+T:(...[delay 0.3]...[delay 0.3] Even though you're an idol,\\nit feels a bit sorry to make you do this)
+
+S:本来なら歌やダンスのレッスンに集中してもらって、\\n雑用なんてさせるべきではないんだろう。[delay 0.5]\\nけれどうちのような駆け出しではそうもいかない。
+T:Normally, they should focus on singing and dancing lessons,\\nand we shouldn't be making them do chores. [delay 0.5]\\nBut for a beginner agency like ours, things are different.
+
+S:…[delay 0.3]…[delay 0.3]まゆ、本当にありがとうな――
+T:...[delay 0.3]...[delay 0.3] Mayu, thank you so much--
+
+S:ふんふんふ～ん♪\\nお掃除ワルツ～……ずんちゃっちゃ♪
+T:Hmm hmm h~n♪\\nCleaning Waltz~... dun cha cha♪
+
+S:あれ？\\nプロデューサーさん、何か言いました？
+T:Huh?\\nDid you say something, Producer?
+
+S:い、[delay 0.3]いや……[delay 0.5]\\nたいしたことじゃないから。[delay 0.5]\\nそれよりも、なんだその歌は？
+T:I... [delay 0.3] No... [delay 0.5]\\nIt's nothing serious. [delay 0.5]\\nBut what is that song?
+
+S:あっ！　すみません、つい……。\\n掃除するときはいつも歌ってるので。
+T:Ah! I'm sorry, I couldn't help it...\\nI always sing while cleaning.
+
+S:先輩、プロデューサーなのにご存じないんですか？\\n80年代アイドルの名曲ですよ。
+T:Senpai, you're the Producer but you don't know this?\\nIt's a famous song from an '80s idol.
+
+S:わぁ……！　あやこさんも知ってるんですね！\\n[tip みらくる倶楽部 80年代、教育番組にレギュラー出演して\\n若年層を中心に短期的に人気を博した2人組ユニット。\\nこの2人は知っていても曲は知らない、という人が多かった。\\n当然、放送当時はまゆもあやこも生まれていない。]の『家じゅうお掃除ワルツ』いい曲ですよね～。
+T:Wow...! You know it too, Ayako!\\n[tip Miracle Club '80s. A duo that appeared regularly on an educational program and gained short-term popularity mainly among younger audiences.\\nMany people knew these two but didn't know their songs.\\nNaturally, neither Mayu nor Ayako had been born yet when it aired.]'s "Cleaning Waltz for the Whole House" is such a great song~.
+
+S:みらくる倶楽部 80年代、教育番組にレギュラー出演して\\n若年層を中心に短期的に人気を博した2人組ユニット。\\nこの2人は知っていても曲は知らない、という人が多かった。\\n当然、放送当時はまゆもあやこも生まれていない。
+T:Miracle Club '80s. A duo that appeared regularly on an educational program and gained short-term popularity mainly among younger audiences.\\nMany people knew these two but didn't know their songs.\\nNaturally, neither Mayu nor Ayako had been born yet when it aired.
+
+S:ふふ……私も掃除をするときには思い出します。
+T:Hehe... I also remember this song when I clean.
+
+S:（……アイドルマニアのまゆはともかく、[delay 0.5]\\n何故あやこまで知ってるんだ？）
+T:(……Setting aside Mayu, the idol otaku,\\n[delay 0.5]\\nWhy does Ayako know about this too?)
+
+S:……ほら、先輩。手がとまってますよ。\\n先輩が上のホコリを落としてくれなきゃ、\\n私たちが掃き掃除できないんですから。
+T:…Look, senpai. Your hand has stopped.\\nIf you don't brush off the dust on top,\\nwe can't do our sweeping.
+
+S:あ、[delay 0.3]ああ……[delay 0.5]悪い。
+T:Ah, [delay 0.3] Ahh... [delay 0.5] Sorry.
+
+S:るんるんる～ん♪\\nめんどうなお掃除だってわんつーすりーで\\n楽し気に～♪
+T:Rururunru~♪\\nEven troublesome cleaning is fun with one-two-three,\\ncheerfully~♪
+
+S:（…[delay 0.3]…[delay 0.3]面倒なことも楽しく、[delay 0.3]か）
+T:(…[delay 0.3] …[delay 0.3] Making even troublesome things enjoyable, [delay 0.3], huh)
+
+S:まゆの歌声に合わせてこっそり口ずさみながら、[delay 0.3]\\n俺はリズムにのってハタキを動かすのだった。
+T:Humming along quietly to Mayu's singing voice, [delay 0.3]\\nI moved the broom in time with the rhythm.
+
+S:わぁ、見違えましたね！\\nなんだか輝いて見えます。
+T:Wow, it looks completely different!\\nIt seems to be shining somehow.
+
+S:ああ、[delay 0.3]2人のおかげで大分きれいになったよ。
+T:Ah, thanks to you two, [delay 0.3], it's gotten quite clean now.
+
+S:レッスン室はあんなに汚れていたのに、\\n手分けして掃除したらあっという間だった。
+T:The practice room was so dirty, but once we split up and cleaned it, it was done in no time.
+
+S:じゃあ、[delay 0.3]ちょっと休憩したら練習を始めようか。[delay 0.5]\\n掃除の直後で悪いけど、本番まで間がないからな。
+T:Then, [delay 0.3] let's take a short break before we start practicing. [delay 0.5]\\nSorry for asking right after cleaning, but there isn't much time left until the performance.
+
+S:あ、あの……。\\nプロデューサーさんたちが休んでる間、\\n先に練習始めてていいですか？
+T:Ah, um... \\nWhile the producers are resting,\\ncan I start practicing ahead of you?
+
+S:えっ？[delay 0.5]\\nそれは構わないけど……[delay 0.5]疲れてないか？
+T:Huh? [delay 0.5]\\nThat's fine with me, but... [delay 0.5] aren't you tired?
+
+S:いえ！\\nどんどん綺麗になるレッスン室を見てたら\\n逆に元気が湧いてきちゃって。
+T:No!\\nWatching the practice room get cleaner and cleaner actually gave me a boost of energy.
+
+S:ここがわたしたちのレッスン室なんだーって\\n思うとなんだか、ワクワクして……\\n早くここで練習したいんです！
+T:Thinking that this is our practice room makes me feel so excited...\\nI can't wait to start practicing here!
+
+S:そうか……[delay 0.5]\\nそういうことなら早速始めよう！
+T:I see... [delay 0.5]\\nIf you're up for it, let's get started right away!
+
+S:まゆ、[delay 0.3]振り付けはもう頭に入ってるか？
+T:Mayu, [delay 0.3] do you already have the choreography memorized?
+
+S:はいっ！\\n参考の動画を貰ったんでバッチリ覚えてきてます！
+T:Yes!\\nI got the reference video, so I've memorized it perfectly!
+
+S:さすがだな！[delay 0.5]\\nそれじゃあ、ひとまず頭からいくか……。
+T:You're something else! [delay 0.5]\\nAlright then, let's start from the top...
+
+S:あやこ、[delay 0.5]音楽かけてくれないか？
+T:Ayako, could you play some music? [delay 0.5]
+
+S:わかりました。\\nいきます……！
+T:Understood.\\nHere we go...!
+
+S:レッスン室のスピーカーから音楽が流れ始める。[delay 0.5]\\n少し古ぼけたピントの合わない音が、暖かく室内に響く。
+T:Music begins to flow from the speakers in the lesson room. [delay 0.5]\\nThe slightly old, out-of-focus sound resonates warmly throughout the room.
+
+S:わん、つー、すりー、ふぉー！\\nふぁいぶ、しっくす、せぶん、えいと……！
+T:One, two, three, four!\\nFive, six, seven, eight...!
+
+S:いいぞ！[delay 0.5]\\nそのまま笑顔キープして……[delay 0.5]腕、[delay 0.3]下がらないように！
+T:Good! [delay 0.5]\\nKeep that smile going... [delay 0.5] Arms, [delay 0.3] don't let them drop!
+
+S:はいっ！\\nうふふふ……！
+T:Yes!\\nHehehe...!
+
+S:おいおい。[delay 0.5]\\n笑顔とは言ったけど、声を出して笑ったら息が切れちゃうぞ。
+T:Hey, hey. [delay 0.5]\\nI said it was a smile, but if you actually laugh out loud, you'll run out of breath.
+
+S:はーい、すみません！\\nでもなんだか嬉しくなっちゃいました！
+T:Y-yes, I'm sorry!\\nBut somehow I ended up feeling really happy!
+
+S:わたし、アイドルになったんだって。\\n駆け出しだけど、本当のアイドルなんだって思ったら……\\nニヤニヤがとまりません！
+T:I've become an idol.\\nEven though I'm just starting out, when I think about how I'm a real idol now...\\nI can't stop grinning!
+
+S:…[delay 0.3]…[delay 0.3]そうか。[delay 0.5]\\nそれならもう、[delay 0.3]そのまま最後まで踊りきってしまえ！
+T:...[delay 0.3]...[delay 0.3]I see. [delay 0.5]\\nThen just keep dancing until the very end! [delay 0.3]
+
+S:はーいっ！\\nふふふふ……！
+T:Y-yes!\\nHehehe...\\n!
+
+S:……先輩、陽葵さんは良いアイドルですね。
+T:...Senpai, Ms. Hinagi is a wonderful idol.
+
+S:そうだな。[delay 0.5]\\nウチの事務所に来てくれて本当によかった。
+T:That's right. [delay 0.5]\\nI'm really glad you came to our agency.
+
+S:いつも明るい笑顔で、周囲を楽しくさせる。[delay 0.5]\\nそんなアイドルとして素晴らしい素質をまゆはもっている。
+T:Always with a bright smile, making everyone around her happy. [delay 0.5]\\nMayu has wonderful qualities as an idol like that.
+
+S:（今はまだ未熟でも、[delay 0.3]いつかまゆは……[delay 0.5]すごいアイドルになる）
+T:(Even if she's still immature now, [delay 0.3]one day Mayu will...[delay 0.5] become an amazing idol)
+
+S:ルクスプロの最初のアイドル・陽葵まゆは、\\n1週間後初めてその花を咲かすことになる。[delay 0.5]\\n俺は待ち遠しくてたまらなかった。
+T:Lux Pro's first idol, Mayuha Hinagi,\\nwill finally bloom for the first time in one week.[delay 0.5]\\nI couldn't wait any longer.

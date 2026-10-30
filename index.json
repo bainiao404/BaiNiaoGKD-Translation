@@ -1,0 +1,56 @@
+{
+  "structureVersion": 2,
+  "generatedAt": "2026-10-30T00:07:46.806Z",
+  "languages": {
+    "en": {
+      "generatedAt": "2026-10-29T23:47:51.889Z",
+      "games": {
+        "Siprj": {
+          "version": "1.0.0",
+          "generatedAt": "2026-10-29T23:47:51.889Z",
+          "totalCount": 306,
+          "chunks": 5,
+          "speakerCount": 18,
+          "zip": "zips/en-Siprj.zip"
+        }
+      }
+    },
+    "zh-CN": {
+      "generatedAt": "2026-10-29T20:09:25.103Z",
+      "games": {
+        "Grenzex": {
+          "version": "1.0.0",
+          "generatedAt": "2026-10-29T20:09:25.103Z",
+          "totalCount": 25461,
+          "chunks": 330,
+          "speakerCount": 253,
+          "zip": "zips/zh-CN-Grenzex.zip"
+        },
+        "LilYangeNext": {
+          "version": "1.0.0",
+          "generatedAt": "2026-10-29T02:16:23.843Z",
+          "totalCount": 88985,
+          "chunks": 1111,
+          "speakerCount": 538,
+          "zip": "zips/zh-CN-LilYangeNext.zip"
+        },
+        "RlyehShoujotaix": {
+          "version": "1.0.0",
+          "generatedAt": "2026-10-28T09:46:35.133Z",
+          "totalCount": 49671,
+          "chunks": 705,
+          "speakerCount": 386,
+          "zip": "zips/zh-CN-RlyehShoujotaix.zip"
+        },
+        "Siprj": {
+          "version": "1.0.0",
+          "generatedAt": "2026-10-28T00:22:53.755Z",
+          "totalCount": 58660,
+          "chunks": 955,
+          "speakerCount": 450,
+          "zip": "zips/zh-CN-Siprj.zip"
+        }
+      }
+    }
+  }
+}

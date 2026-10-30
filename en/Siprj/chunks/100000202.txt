@@ -1,0 +1,180 @@
+# BNT 1.1 | Type: Chunk | Chunk: 100000202 | Game: Siprj
+S:わん、つー、すりー……で、ターンして……\\nここでビシッと！
+T:One, two, three... and turn...\\nNail it right here!
+
+S:うん、バッチリ決まった！
+T:Yeah, nailed it perfectly!
+
+S:……まゆ、お疲れ。[delay 0.5]\\n大分仕上がってきたな
+T:...Mayu, good work. [delay 0.5]\\nIt's coming together quite nicely.
+
+S:あっ、プロデューサーさん！\\nお疲れさまです！
+T:Ah, Producer!\\nThanks for your hard work!
+
+S:商店街のイベントへの参加を翌日に控え、\\nまゆのレッスンへの熱はさらに高まっていた。
+T:With the shopping district event just one day away,\\nMayu's passion for her lessons was intensifying even further.
+
+S:たった1週間程度の練習だったにも関わらず、\\n固さは残るものの人前に出して恥ずかしくない完成度だ。
+T:Despite having practiced for only about a week,\\nit still had some stiffness, but it reached a level of completion that wouldn't be embarrassing to show in front of an audience.
+
+S:…[delay 0.3]…[delay 0.3]ちょっと頑張りすぎじゃないか。[delay 0.5]\\nほら、スポーツドリンク。ちゃんと水分補給してくれよ？
+T:...[delay 0.3]... [delay 0.3] Aren't you pushing yourself a bit too hard? [delay 0.5]\\nHere, some sports drink. Make sure you stay hydrated, okay?
+
+S:ありがとうございます……！\\nでもこうしてないと、なんだか心配で……。
+T:Thank you so much...\\nBut if I don't keep going like this, I just feel worried...
+
+S:（…[delay 0.3]…[delay 0.3]まあ、仕方ないか。[delay 0.5]\\nずっとアイドルを目指していたとはいえ、\\nこの間までは普通の女の子だったんだから）
+T:(...[delay 0.3]...[delay 0.3]Well, I suppose there's no help for it. [delay 0.5]\\nEven though I've been aiming to be an idol all along,\\nI was just a regular girl until recently)
+
+S:（せめてもう1人か2人、助け合う仲間がいれば\\n精神的な負担が減るかもしれないけど）
+T:(If only I had one or two more companions to share the burden with,\\nit might ease my mental load a bit)
+
+S:…[delay 0.3]…[delay 0.3]頑張ってスカウトしないとなぁ。
+T:...[delay 0.3]...[delay 0.3]I really need to work hard on scouting.
+
+S:<size=40>えっ、アイドル増やしてくれるんですか……!?</size>
+T:<size=40>Huh, you're going to add more idols......!? </size>
+
+S:俺の小さなつぶやきを敏感に拾い上げて、\\nまゆが目を輝かせながら迫ってきた。
+T:Mayu picked up my quiet muttering with keen sensitivity,\\nand approached me with sparkling eyes.
+
+S:ま、[delay 0.3]まあ、[delay 0.5]さすがにまゆ1人だけってわけにはいかないし……。[delay 0.5]\\n人は増やしていかなきゃいけないけど。
+T:Well, [delay 0.3]well, [delay 0.5]it's not like I can just have Mayu alone....... [delay 0.5]\\nI need to increase the number of people.
+
+S:はいっ、プロデューサーさんっ！\\nわたしユニットとかグループとか、そういうの憧れてるんです。
+T:Yes, Producer!\\nI've always admired units and groups like that.
+
+S:たくさんの個性がぶつかり合って、\\n1つの複雑な魅力を生み出す……\\nそんなアイドルが好きなんですよね
+T:Many unique personalities clashing with each other,\\ngenerating a single complex charm......\\nThat's the kind of idol I love
+
+S:なるほどな……。
+T:I see...
+
+S:まゆがそう希望するならば、\\nやはり早く新たなアイドルをスカウトする必要がある。[delay 0.5]\\nとはいえ、そんなに簡単にいくものでもないのだが――
+T:If Mayu wishes it, then\\nwe really do need to scout a new idol soon. [delay 0.5]\\nThat said, it's not exactly an easy task either--
+
+S:（…[delay 0.3]…[delay 0.3]ルクスプロはまだまったく実績がないからな。\\nスカウトしてもたいてい怪しまれちゃうんだよなぁ）
+T:(...[delay 0.3]...[delay 0.3]Lux Pro still has no track record at all.\\nIf we scout them, people will probably get suspicious.)
+
+S:商店街のイベント出演さえ成功させれば、なんとかならないか。[delay 0.5]\\nそんなことを考えていると、キィと音をたてて\\nレッスン室の扉が開いた。
+T:If we can just succeed in performing at the shopping district event, maybe it'll work out. [delay 0.5]\\nAs I was thinking about that, the door to the practice room opened with a creak.
+
+S:お疲れ様です先輩、陽葵さん。
+T:Good work today, Senpai and Ms. Hinagi.
+
+S:ああ、お疲れ……[delay 0.5]って――
+T:Ah, good work... [delay 0.5] Wait--
+
+S:レッスン室に入ってきたあやこの隣には、ひとりの女性の姿。[delay 0.5]\\n少し影のある表情をしているが、顔は整っている。[delay 0.5]\\nスタイルも悪くない。[delay 0.5]これは、まさか……
+T:Next to Ayako who entered the practice room was a woman. [delay 0.5]\\nHer expression is somewhat gloomy, but her face is well-proportioned. [delay 0.5]\\nShe has a decent figure too. [delay 0.5]Could it be that...
+
+S:あ、あやこさん……！\\nお隣にいるのは、まさか新しいアイドルさんだったり……!?
+T:Ah, Ayako-san...!\\nThe person next to you-- could they possibly be the new idol!?
+
+S:いえ、この方は、その……。
+T:No, this person is... um.
+
+S:……ぬか喜びさせちゃったみたいですねぇ。\\nなんだかすみません。\\nわたしはただの助っ人、とでも言いましょうか。
+T:...It seems I've given you false hope.\\nI'm sorry about that.\\nLet's just say I'm merely a helper.
+
+S:い、いえ……わたしこそ早とちりを……。
+T:N-no... I was the one who jumped to conclusions...
+
+S:彼女は[ruby 阿衣良 あいら]りこさんといいまして、\\nウチに足りてない部分を手助けしてもらおうとお呼びしました。
+T:She is [ruby Riko Aira あいら], and I invited her to help with what's lacking in our group.
+
+S:先輩、この間明日のイベントを\\n撮影しておきたいって言ってたじゃないですか。\\nりこさんはそういうのにも詳しいので、お願いしようかなと。
+T:Senior, didn't you say the other day that you wanted to film tomorrow's event?\\nSince Riko is well-versed in that kind of thing, I thought I'd ask for her help.
+
+S:まあ、詳しいってほどじゃないですけどね。\\nちょっとかじってるくらいで。
+T:Well, she's not exactly an expert or anything.\\nShe just dabbles a little.
+
+S:改めまして、阿衣良りこです。\\nリコピンあいらって気楽によんでくださいね～。
+T:Once again, I'm Riko Aira.\\nPlease feel free to call me Ricopin Aira casually~.
+
+S:り、[delay 0.3]リコピンあいら……？
+T:... [delay 0.3] Ricopin Aira......?
+
+S:趣味で歌って踊れるお絵描き配信者をやってまして、\\nまあハンドルネームみたいなものですよ。
+T:I do drawing streams where I sing and dance for fun,\\nIt's basically my handle name.
+
+S:それじゃあ……[delay 0.5]リコピンさん、よろしくお願いします。
+T:Well then... [delay 0.5] Ricopin-san, nice to meet you.
+
+S:握手しようと手を差し出すと、\\nリコピンあいらと名乗った女性は\\n俺の手をねっとりとなぞるように撫ではじめた。
+T:When I reached out my hand for a handshake,\\nThe woman who introduced herself as Ricopin Aira\\nbegan stroking my hand in a sticky manner.
+
+S:<size=40>……!?</size>
+T:<size=40>...!? </size>
+
+S:うふふふ、いい手ですね。\\n後でスケッチさせてください。
+T:Hehe, what nice hands.\\nPlease let me sketch them later.
+
+S:す、[delay 0.3]スケッチ……？
+T:W-what do you mean by [delay 0.3] sketch...?
+
+S:先ほども言っていたとおり、\\nリコピンさんはイラストを描くのが趣味でして。\\nそれから、少し変わっているというか……。
+T:As I mentioned earlier,\\nRicopin-san's hobby is drawing illustrations.\\nAnd also, she's a bit peculiar, so to speak...
+
+S:な、[delay 0.3]なるほど……？
+T:I-I see, [delay 0.3] I understand now...?
+
+S:（よくわからないけど、\\nあやこが連れてきたんだし……[delay 0.5]悪人ではないのだろう）
+T:(I don't really get it, but\\nsince Ayako brought me here... [delay 0.5] she's probably not a bad person)
+
+S:ふふ、よろしくお願いしますね。\\nそれじゃあ早速……いろいろヤってみましょうか♥
+T:Hehe, nice to meet you.\\nWell then, let's just dive right in and try all sorts of things♥
+
+S:あやこちゃんにこの事務所について教えてもらったんですが、\\nやれることはたくさんあると思うんです。\\n例えばグッズを作って販売するとか。
+T:Ayako-chan told me about this agency,\\nand I think there are lots of things we can do.\\nFor example, making and selling merchandise.
+
+S:はいはいっ！\\nわたしルクスプログッズほしいです！\\nグッズと聞くとアイドルマニアの血は沸き立つんですよ！
+T:Yes yes!\\nI want Lux Pro merch!\\nWhen I hear the word 'merch', my idol otaku blood boils!
+
+S:ええと、あなたがアイドルの陽葵まゆちゃんですよね？\\nあなた自身のグッズを作ることになると思いますけど……
+T:Um, you're Mayu Hinoki, the idol, right?\\nI think we'll be making merchandise for you personally...
+
+S:あっ、そうでした……えへへ。\\nでもやっぱり記念にほしいなぁ。
+T:Ah, that's right... hehe.\\nBut I still want some as a souvenir.
+
+S:うふふ、それじゃあ後で\\nどんなグッズにしたいか意見を聞かせてくださいね。
+T:Hehe, then later on,\\nplease let me know what kind of merch you'd like to make.
+
+S:…[delay 0.3]…[delay 0.3]歌って踊れるお絵描き配信者っていうのは\\nグッズ作りにも詳しいのか。
+T:…[delay 0.3]…[delay 0.3] A streamer who sings and dances while drawing\\nis also an expert in making merchandise, huh.
+
+S:まあ、長く創作系のオタクをやってると、\\nこういう知識も身についちゃうんですよねぇ。
+T:Well, if you've been a creative otaku for a long time,\\nyou end up picking up knowledge like this.
+
+S:よくわからないけど、\\n俺は詳しくない分野だからとても心強いよ。[delay 0.5]\\nひとまず明日はよろしくお願いします。
+T:I don't really get it, but\\nit's reassuring since I'm not familiar with that field. [delay 0.5]\\nAnyway, please take care of me tomorrow.
+
+S:はい、動画の撮影も頑張らなきゃですね～。\\nついでにルクスプロのiTubeチャンネルも立ち上げて、\\n動画投稿できるようにしちゃいましょ。
+T:Yes, we need to work hard on the video shooting too~.\\nWhile we're at it, let's set up Lux Pro's iTube channel\\nso we can start posting videos.
+
+S:おー……！\\nルクスプロ本格始動って感じでワクワクしちゃいます！
+T:Ohh...!\\nI'm excited thinking about Lux Pro officially launching!
+
+S:うふふ、明日は可愛く撮影してあげますからね～。
+T:Hehe, I'll make sure to shoot you cutely tomorrow~.
+
+S:はーいっ！
+T:Yes ma'am!
+
+S:（…[delay 0.3]…[delay 0.3]まゆの表情も柔らくなったし、明日は大丈夫そうだな）
+T:(...[delay 0.3]... [delay 0.3] Mayu's expression has softened too, so it should be fine tomorrow)
+
+S:陽葵まゆにとってもルクスプロにとっても初めてのステージ。[delay 0.5]\\nきっといい結果が待っているはず。[delay 0.5]\\n根拠はないけれど、そんな気がした。
+T:It's the first stage for both Mayu Hinoki and Lux Pro. [delay 0.5]\\nThere must be a good result waiting for us. [delay 0.5]\\nI have no basis for it, but that's what I feel.
+
+S:それじゃあちょうどいい休憩になったし、練習を再開しようか！[delay 0.5]\\n明日に向けて最後の追い込みだ。
+T:Well, that made for a perfect break. Let's resume practice! [delay 0.5]\\nThis is our final push before tomorrow.
+
+S:わかりました！\\nやっちゃいましょう！
+T:Understood!\\nLet's do it!
+
+S:…………。
+T:…………。
+
+S:……本当に大丈夫なんでしょうか？
+T:……Are you really sure about this?

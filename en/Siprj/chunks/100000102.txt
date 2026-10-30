@@ -1,0 +1,195 @@
+# BNT 1.1 | Type: Chunk | Chunk: 100000102 | Game: Siprj
+S:ひっ、陽葵まゆといいます！\\nほんじつは、よろしく、おねがいしましゅ……！
+T:H-hi, my name is Mayu Hinoki!\\nNice to meet you, please treat me well...!
+
+S:（……噛んだな）
+T:(...She stumbled over her words)
+
+S:（……噛みましたね）
+T:(...You stumbled over your words)
+
+S:うぅぅ……すみません……！\\nわたし、その緊張しちゃって……。
+T:Uuu... I'm sorry...!\\nI got so nervous that I...
+
+S:大丈夫ですよ。\\n形式ばった面接じゃありませんからね。
+T:It's okay.\\nThis isn't a formal interview, after all.
+
+S:はいっ、ありがとうございます！
+T:Yes! Thank you very much!
+
+S:落ち込んだと思えば、[delay 0.3]すぐに満面の笑み。[delay 0.5]\\n素直にころころと表情が変わる子だ。
+T:Just when she looks downcast, [delay 0.3]she immediately breaks into a beaming smile. [delay 0.5]\\nShe's a girl whose expression changes easily and honestly.
+
+S:（──まぶしい）
+T:(──Dazzling)
+
+S:そんな印象だった。[delay 0.5]\\n見た人を元気にするような明るい笑顔。[delay 0.5]\\nまるで太陽みたいだ。
+T:That was the impression I had. [delay 0.5]\\nA bright smile that makes anyone feel energized just by looking at it. [delay 0.5]\\nShe's like a little sun.
+
+S:それじゃあ面接を始めましょうか。
+T:Well then, shall we begin the interview?
+
+S:はいっ、よろしくおねがいします……！
+T:Yes! Nice to meet you...!
+
+S:陽葵まゆと名乗った女の子は、[delay 0.5]\\nアイドルになるために人生をかけてきたような子だった。
+T:The girl who introduced herself as Mayu Hinoki was [delay 0.5]\\nsomeone who had dedicated her entire life to becoming an idol.
+
+S:小さいころからアイドル一筋。[delay 0.5]\\n独学ではあるがダンスも歌も練習量が感じ取れる。[delay 0.5]\\n笑顔が可愛くて、[delay 0.3]礼儀正しい。
+T:She's been focused solely on being an idol since she was little. [delay 0.5]\\nThough self-taught, you can tell how much practice she puts into both dancing and singing. [delay 0.5]\\nHer smile is adorable, and [delay 0.3]she's very polite.
+
+S:（…[delay 0.3]…[delay 0.3]話してみて実感したが、[delay 0.3]素質はばっちりだな）
+T:(...[delay 0.3]...[delay 0.3]I tried talking to them and really felt it, but [delay 0.3]'s aptitude is top-notch)
+
+S:どうしましょうか、先輩。\\n私はいいと思いますが……。
+T:What should we do, senpai?\\nI think she's fine...
+
+S:あやこが耳打ちしてくる。[delay 0.5]\\n俺も同意見ではあるのだが、少し引っかかることがある。
+T:Ayako whispers something in my ear. [delay 0.5]\\nI agree with her, but there is one thing that bothers me a little.
+
+S:――なぜ、[delay 0.3]陽葵まゆは\\nまだアイドルになれていないのだろう。
+T:――Why hasn't [delay 0.3]Mayuha Hinagi\\nbecome an idol yet?
+
+S:これだけのやる気とポテンシャルがあるなら、[delay 0.3]\\n他の事務所が目をつけていてもおかしくないはず。
+T:With this much drive and potential, it's no surprise that [delay 0.3]\\nother agencies would be keeping an eye on her.
+
+S:（もう少しだけ話を聞いてみたほうがいいか……）
+T:(Maybe I should listen a little longer...)
+
+S:では……陽葵さん。\\n好きなアイドルがいれば教えてください――
+T:Then... Ms. Hinagi.\\nIf there is an idol you like, please tell me――
+
+S:<size=48>えっ、好きなアイドルですか!?</size>
+T:<size=48>Huh? An idol you like!?</size>
+
+S:え？
+T:Huh?
+
+S:<size=58>お話させてもらっていいんですか……!?</size>
+T:<size=58>Is it okay if I talk about it...!?</size>
+
+S:え、[delay 0.3]ええ……。
+T:Ah, [delay 0.3]Yes...
+
+S:まずはやっぱり[tip 『わんわん隊』 80年代半ばに活躍し、社会現象を巻き起こした\\n日本最初期の大人数アイドルグループ。\\n世代的には、まゆの祖父母が夢中になったアイドルだ。]です！\\nお母さんとお父さんも好きなアイドルだったので、\\nその影響でわたしも好きになっちゃって……
+T:First of all, it's definitely [tip 'Wanwan Team' was a large-scale idol group active in the mid-80s that became a social phenomenon.\\nIt is one of Japan's earliest large idol groups.\\nGenerationally speaking, it's the idol that Mayu's grandparents were obsessed with.]!\\nMy mom and dad were fans of their favorite idols too,\\nso I ended up liking them because of that influence...
+
+S:『わんわん隊』 80年代半ばに活躍し、社会現象を巻き起こした\\n日本最初期の大人数アイドルグループ。\\n世代的には、まゆの祖父母が夢中になったアイドルだ。
+T:'Wanwan Team' was a large-scale idol group active in the mid-80s that became a social phenomenon.\\nIt is one of Japan's earliest large idol groups.\\nGenerationally speaking, it's the idol that Mayu's grandparents were obsessed with.
+
+S:古いアイドルなんで、今よりも洗練されてないんですけど\\nその素朴な感じもとっても可愛いですよね……！\\nわたしはセカンドアルバムのジャケットの写真が一番好きです！
+T:Since they're an old idol group, they weren't as polished as today,\\nbut their simple charm is really cute too...!\\nI like the photo on the cover of their second album the most!
+
+S:な、[delay 0.3]なるほど……？
+T:W-wait, [delay 0.3] I see...?
+
+S:最近のアイドルだと……Vividに注目してます！\\n実力派コンビって感じで、ちょっと近寄りがたい雰囲気も\\nあるんですけど……そこが良くて。
+T:As for recent idols... I'm paying attention to Vivid!\\nThey have a skilled duo vibe, and there's also a bit of an atmosphere\\nthat makes them seem hard to approach... but that's what's good about them.
+
+S:親しみやすいアイドルもいいけど、\\nまさにスターって感じで憧れちゃいますよ～！
+T:Friendly idols are nice too,\\nbut they really feel like stars, so I can't help but admire them~!
+
+S:一度スイッチが入った彼女は、もう止まらなかった。[delay 0.5]\\n次から次へと嵐のように\\nアイドルの名前と熱量の高い愛が放たれ続ける。
+T:Once her switch was flipped, she couldn't stop. [delay 0.5]\\nLike a storm, one after another,\\nidol names and intense love kept being unleashed.
+
+S:と、[delay 0.3]ところで！[delay 0.5]\\nそのノートは陽葵さんが作ったものですか？
+T:And, [delay 0.3] by the way! [delay 0.5]\\nDid Ms. Hinagi make that notebook?
+
+S:まゆの手にはいつの間にか1冊の使い古されたノート。[delay 0.5]\\n『マル秘！　アイドル研究ノート　vol.34』と書いてある。
+T:不知何时，Mayu手中多了一本用旧的笔记本。[delay 0.5]\\n上面写着《绝密！偶像研究笔记 vol.34》。
+
+S:あっ、すみません……。\\nつい熱くなっちゃって、えへへ。
+T:啊，对不起……。\\n一不小心就太投入了，嘿嘿。
+
+S:わたし、アイドルになろうって決めてから\\n色んなアイドルを研究してるんです。\\nそれで、ノートにまとめてて……。
+T:自从决定要成为偶像之后，\\n我就一直在研究各种各样的偶像。\\n所以，我把内容都整理在笔记本里了……。
+
+S:（…[delay 0.3]…[delay 0.3]なんて熱意だろう）
+T:（…[delay 0.3]…[delay 0.3]真是令人惊叹的热情啊）
+
+S:アイドルを夢見る人を、俺は何人も目にしてきた。[delay 0.5]\\nだが、[delay 0.3]これほど熱く純粋に\\nアイドルを想う子を俺は見たことがない
+T:I've seen countless people who dream of becoming idols. [delay 0.5]\\nBut I have never seen anyone feel about idols with such passion and purity as this girl.[delay 0.3]
+
+S:ポテンシャルも想いも申し分ない。\\nすぐにでも契約をお願いしたいところだが……。
+T:无论是潜力还是心意都无可挑剔。\\n我很想立刻与她签约，但是……。
+
+S:さすがのあたしもこんな小っちゃい事務所に\\n移籍するつもりとかないから。
+T:就连我这样的顶级人物，也完全没有打算\\n转投这么小的事务所。
+
+S:あっ、あの……！\\n実はわたし、ネットで配信活動もしてるんです。
+T:啊，那个……！\\n其实我也在网上进行直播活动呢。
+
+S:……そうなんですか？\\nでも、急に何故そんな話を――
+T:...Is that so?\\nBut why are you bringing this up all of a sudden--
+
+S:今のアイドルにはそういう努力も必要だって聞いて……。\\nまだまだ見てくれる人も少ないですけど、\\nちょっとだけファンの人もできたんです！
+T:I heard that idols these days need to put in that kind of effort too....\\nThere aren't many people watching me yet,\\nbut I've actually gained a few fans!
+
+S:すごいな…[delay 0.3]…[delay 0.3]本当に努力家なんだね。[delay 0.5]\\nでもそうなると、[delay 0.3]ウチみたいな弱小よりも\\n大手の事務所のほうがいいかもしれな――
+T:Amazing...[delay 0.3]...[delay 0.3]You really are hardworking.[delay 0.5]\\nBut if that's the case, [delay 0.3]a major agency might be better\\nthan a small one like ours--
+
+S:<size=45>そ、そんなことないです！</size>
+T:<size=45>N-no, that's not true at all!</size>
+
+S:歌もダンスも、まだまだ未熟ですけど……。\\nこれからもっともっと頑張ります！
+T:My singing and dancing are still immature....\\nI'll keep working harder from now on!
+
+S:だから、落とさないでください～……！
+T:So please don't drop me~......!
+
+S:えっ？[delay 0.5]　落と[delay 0.3]す……？
+T:Huh?[delay 0.5]　Drop [delay 0.3]me...?
+
+S:逆に、[delay 0.3]こんな小さな事務所じゃあ辞退されるかな[delay 0.5]\\nって思っていたくらいなんですが……。
+T:On the contrary, I was thinking that maybe they'd reject me since it's such a small office [delay 0.3]\\n... [delay 0.5]
+
+S:……そうなんですか？
+T:...Is that so?
+
+S:……話がすれ違っているような気がします。\\nちょっと整理しましょうか。
+T:...I feel like we're talking past each other.\\nShall I try to sort things out a bit?
+
+S:すみません……。\\n難しい顔をしていたので、またダメかと……。
+T:I'm sorry...\\nYou had such a difficult expression on your face, and I thought it was no good again...
+
+S:ウチは小さい事務所ですから。\\n陽葵さんのように熱意がある人を断る余裕はありませんよ。
+T:Our office is small.\\nWe don't have the luxury of turning away someone with as much passion as you, Ms. Hinagi.
+
+S:そうなんですか……。\\nよかったぁ～！
+T:Is that so...\\nThat's wonderful!
+
+S:どうやらまゆは、俺が考えごとをしている表情を見て\\nまたまた落とされてしまうのかと勘違いしたらしい。
+T:It seems Mayu saw my pensive expression and mistakenly thought I had been rejected again.
+
+S:曰く、[delay 0.3]今までいくつもの事務所を受けてきたが\\n独学ゆえの未熟さや熱意の空回りでオーディション全敗。
+T:She said, [delay 0.3] she has applied to many agencies before,\\nbut due to her self-taught inexperience and misplaced passion, she failed every audition.
+
+S:自分には才能がない。[delay 0.5]\\nでも、[delay 0.3]あきらめることなんてできない。
+T:I don't have talent. [delay 0.5]\\nBut I can't give up, [delay 0.3]
+
+S:そんな想いでアイドル募集の広告を探し続けていた結果、[delay 0.5]\\n誰よりも早く、[delay 0.3]一番最初に\\nこのルクスプロを見つけてくれたのだそうだ。
+T:With that mindset, I kept searching for idol recruitment ads. [delay 0.5]\\nApparently, more than anyone else, [delay 0.3]was the very first to\\nfind this Lux Pro.
+
+S:さて、[delay 0.3]誤解が解けたところで。[delay 0.5]\\n陽葵まゆさん。
+T:Now then, [delay 0.3]now that the misunderstanding is cleared up. [delay 0.5]\\nMayu Hinoki.
+
+S:彼女が言った通り[delay 0.3]\\nウチはまだスタッフ2名、[delay 0.3]所属アイドル0名。[delay 0.5]\\n設立したばかり、[delay 0.3]一番下の弱小事務所です。
+T:Just as she said, [delay 0.3]\\nwe still only have two staff members, [delay 0.3]and zero affiliated idols. [delay 0.5]\\nWe just opened up, [delay 0.3]the smallest and weakest agency at the bottom.
+
+S:大手と比べてサポートは手厚くはできないし、[delay 0.3]\\n不安にさせてしまうことも多いでしょう。
+T:Compared to major agencies, our support isn't as robust, [delay 0.3]\\nso there will likely be many things that cause you anxiety.
+
+S:それでも我々はあなたの才能が輝くように、[delay 0.5]\\n一流のアイドルになれるように、[delay 0.5]\\n全力でプロデュースさせていただきます。
+T:Even so, we will do everything in our power to make your talent shine, [delay 0.5]\\nto help you become a top-tier idol, [delay 0.5]\\nand produce you with all our might.
+
+S:このルクスプロダクションで[delay 0.3]\\nアイドルをやってくれますか？
+T:Will you be an idol at this Lux Production? [delay 0.3]
+
+S:……はいっ、よろしくおねがいします！\\nプロデューサーさん！
+T:...Yes! Please take care of me!\\nProducer!
+
+S:ルクスプロダクション開業初日。[delay 0.5]\\nスタッフ2名、[delay 0.3]所属アイドル[delay 0.2]1名。
+T:The first day of Lux Production's opening. [delay 0.5]\\nTwo staff members, [delay 0.3]one affiliated idol [delay 0.2].
+
+S:こうして、[delay 0.3]俺たちの物語は\\nそんな理想的な出会いから始まったのだった。
+T:こうして、[delay 0.3]俺たちの物語は\\nそんな理想的な出会いから始まったのだった。

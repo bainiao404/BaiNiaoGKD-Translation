@@ -1,0 +1,54 @@
+# BNT 1.1 | Type: Speaker | Game: Siprj
+S:千里かおる
+T:Kaoru Chisari
+
+S:夜乃
+T:Yono
+
+S:椎奈
+T:Shina
+
+S:千里
+T:Chizuru
+
+S:夜乃すずか
+T:Yuno Suzuka
+
+S:すずか
+T:Suzuka
+
+S:陽葵まゆ
+T:Mayu Hinoki
+
+S:あやこ
+T:Ayako
+
+S:陽葵まゆは
+T:Mayuha Hinagi
+
+S:陽葵さん
+T:Ms. Hinagi
+
+S:まゆ
+T:Mayu
+
+S:陽葵
+T:Yohi
+
+S:ヤミノ
+T:Yamino
+
+S:ルクスプロ
+T:Lux Pro
+
+S:プロデューサー
+T:Producer
+
+S:阿衣良りこ
+T:Riko Aira
+
+S:リコピンあいら
+T:Ricopin Aira
+
+S:リコピン
+T:Ricopin

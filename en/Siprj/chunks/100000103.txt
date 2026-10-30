@@ -1,0 +1,153 @@
+# BNT 1.1 | Type: Chunk | Chunk: 100000103 | Game: Siprj
+S:事務所初のアイドル・陽葵まゆを迎え、[delay 0.3]\\n俺たちは華々しくスタートを切ることとなった！
+T:With our agency's first idol, Mayu Hinoki, on board, [delay 0.3]\\nwe made a grand entrance!
+
+S:（…[delay 0.3]…[delay 0.3]と、[delay 0.5]思っていたんだけどなぁ）
+T:(...I thought it would be like this: [delay 0.3], [delay 0.3], and [delay 0.5].)
+
+S:深い深いため息をつく。[delay 0.5]\\n当然のことだが、[delay 0.3]実績も何もない事務所のアイドルに\\nそうかんたんに仕事が舞い込んでくるわけがない。
+T:He let out a deep, heavy sigh. [delay 0.5]\\nNaturally, no work would just fall into the lap of an idol at an agency with zero track record like [delay 0.3].
+
+S:ここ数日の営業活動も空振り続きで、[delay 0.3]\\n今日も午前中に数社まわって帰社したところだった。
+T:The sales pitches over the past few days had all come up empty, and [delay 0.3]\\nhe had just returned to the office after visiting several companies that morning.
+
+S:（……思えば、[delay 0.3]ヤミノにいたときは恵まれてたな。[delay 0.5]\\n事務所の名前を出せば仕事がもらえたんだから）
+T:(...Thinking back on it, I was quite privileged when I was with [delay 0.3]Yamino. [delay 0.5]\\nAll you had to do was mention the agency's name and work would come in.)
+
+S:はぁ[delay 0.3]…[delay 0.3]…。
+T:Haa [delay 0.3]... [delay 0.3]...
+
+S:あのっ、プロデューサーさん！
+T:Um, Producer!
+
+S:ん？[delay 0.5]\\nまゆ、[delay 0.3]どうかしたか？
+T:Hm? [delay 0.5]\\nMayu, is something wrong? [delay 0.3]
+
+S:なんだか気合の入った表情でまゆが近づいてきた。[delay 0.5]\\nまゆには「アイドルの研究」をしてもらっている。[delay 0.5]\\nまあ、[delay 0.3]アイドルのライブ映像を観せているだけだが……。
+T:Mayu approached with a determined expression. [delay 0.5]\\nI've asked Mayu to "research idols." [delay 0.5]\\nWell, I'm just showing her live idol videos... but still. [delay 0.3]
+
+S:よかったら、一緒に観ませんか？\\nほら、こっちに来てください！
+T:Would you like to watch together?\\nCome here!
+
+S:あ、[delay 0.3]ああ……。
+T:Ah, [delay 0.3] Ahh...
+
+S:まゆに手を引かれソファーに向かう。[delay 0.5]\\n彼女の小さな手からは、\\n安心するような温もりが伝わってきた。
+T:Mayu took my hand and led me toward the sofa. [delay 0.5]\\nFrom her small hand,\\na reassuring warmth was transmitted.
+
+S:わたし、アイドルを見てると元気が湧いてくるんです！\\nだからプロデューサーさんも一緒にどうかなーって。
+T:Watching idols always gives me energy!\\nSo I thought maybe you could join in too, Producer.
+
+S:……そうか、[delay 0.5]ありがとうな。
+T:...I see. [delay 0.5] Thank you.
+
+S:（心配させちゃったか……。[delay 0.5]\\nアイドルに気をつかわせるなんて、プロデューサー失格だ）
+T:(Did I worry them?...\\nMaking an idol worry about me is unbecoming of a producer.[delay 0.5])
+
+S:モニタに映し出されていたのは\\nヤミノカンパニー協賛の大型フェスの様子だった。[delay 0.5]\\nステージに立っているのはVividの2人組。
+T:Displayed on the monitor was\\nthe scene of a large festival sponsored by Yamino Company. [delay 0.5]\\nThe duo from Vivid were standing on stage.
+
+S:（……夜乃すずか。[delay 0.5]\\n先日顔を合わせたときは、気だるそうな雰囲気だったけど、[delay 0.3]\\nステージに立つと見違えるな）
+T:(……Yuno Suzuka. [delay 0.5]\\nWhen I last saw her, she seemed pretty listless, but [delay 0.3]\\nshe's a completely different person on stage)
+
+S:声の伸び、[delay 0.3]ダンスのキレ。[delay 0.5]\\n表情ひとつとってもレベルが違う。[delay 0.5]\\nさすがのヤミノカンパニー所属のアイドルといった感じだ。
+T:The reach of her voice, [delay 0.3]the sharpness of her dance. [delay 0.5]\\nEven just looking at her expressions, she's on another level. [delay 0.5]\\nShe really lives up to being an idol from Yamino Company.
+
+S:この間も言いましたけど、Vivid最近推してるんですよ！\\n大人の2人って感じでカッコよくて……。
+T:Like I said before, I've been pushing Vivid lately!\\nThey have this cool vibe of two grown-ups……
+
+S:技術もすごくて、わたしこういうふうになりたいなぁ！
+T:Their skills are amazing too. I wish I could be like that!
+
+S:…[delay 0.3]…[delay 0.3]なれるさ、[delay 0.5]まゆなら。
+T:…[delay 0.3]…You can become [delay 0.3], [delay 0.5]Mayu.
+
+S:そう告げるも、[delay 0.3]言葉に力が入らない。[delay 0.5]\\n目の前にあるのは「仕事も0」の現実だけ。
+T:I said it, but [delay 0.3]my words lack conviction. [delay 0.5]\\nAll that's in front of me is the reality of having "zero work".
+
+S:（…[delay 0.3]…[delay 0.3]ヤミノみたいな大手の事務所に\\n所属したほうが、[delay 0.3]まゆは幸せだったんじゃないか？）
+T:(...[delay 0.3]...[delay 0.3]Wouldn't Mayu have been happier if she had belonged to a major agency like Yamino? [delay 0.3])
+
+S:数日前に「全力でプロデュースする」と言ったばかりなのに[delay 0.3]\\nそんな思いが頭をよぎってしまう。
+T:I just said "I'll produce you with all my might" a few days ago, yet [delay 0.3]\\nthoughts like that keep crossing my mind.
+
+S:……先輩。\\n何してるんですか？
+T:...Senpai.\\nWhat are you doing?
+
+S:…[delay 0.3]…[delay 0.3]へっ？
+T:…[delay 0.3]…[delay 0.3]Huh?
+
+S:あっ、あやこさん！\\nお帰りなさい！
+T:Ah, Ayako!\\nWelcome back!
+
+S:はい、ただいま戻りました。
+T:Yes, I just got back.
+
+S:……私が外で頑張っている間に、\\n先輩はサボっていたんですね。へー、いい御身分ですね。
+T:...While I was working hard outside,\\nyou were slacking off, Senpai. Wow, what a high status you have.
+
+S:い、[delay 0.3]いや……[delay 0.5]俺もさっき帰社したところで……。[delay 0.5]\\nというか、サボるような仕事もないんだけど。
+T:I-I'm sorry...[delay 0.3]No...[delay 0.5]I just got back to the office too...[delay 0.5]\\nBesides, there's no work here that would let you slack off.
+
+S:まあ、そうですよね……。\\nそんな、しょぼくれた先輩に朗報です。
+T:Well, I suppose so...\\nHere is some good news for such a dejected Senpai.
+
+S:まさか……[delay 0.5]またアイドルの志望者が来たのか!?
+T:No way...[delay 0.5]Another aspiring idol has come!?
+
+S:えっ？　本当ですか……！
+T:Huh? Really...!?
+
+S:いえ、違います。\\nウチみたいな事務所に応募する子なんて\\nめったにいませんよ。
+T:No, that's not it.\\nKids who apply to an agency like ours\\nare quite rare.
+
+S:私が持ってきたのは、仕事の話です。\\n陽葵さん……
+T:What I brought is a job offer.\\nMs. Hinagi...
+
+S:ステージで歌ってみたくありませんか？
+T:Would you like to try singing on stage?
+
+S:えっ？　もちろん歌いたいですけど……
+T:Huh? Of course I want to sing, but...
+
+S:もしかして、お仕事ってそういうことなんですかっ!?
+T:Wait, so that's what the job is about!?
+
+S:はい。地域の商店街でやるお祭りの\\n小さなステージ発表ではありますが……。
+T:Yes. It's a small stage performance\\nfor a festival in the local shopping district...
+
+S:ステージはステージです。\\n一応、正式なお仕事の依頼ですし。
+T:A stage is still a stage.\\nIt is an official work request, after all.
+
+S:わたし……みんなの前で歌えるんだっ。\\n本当にアイドルになっちゃうんだ！
+T:I... I can sing in front of everyone.\\nI'm really going to become an idol!
+
+S:すごいな、あやこ。[delay 0.5]\\n一体どこからそんな依頼を……？
+T:Wow, Ayako. [delay 0.5]\\nWhere on earth did you get that request from...?
+
+S:知り合いの伝手ですね。\\n急なお願いだったので本当は断るつもりだったんですけど、\\n押し切られてしまって。
+T:It was a referral from someone I know.\\nSince it was such a sudden request, I actually intended to decline,\\nbut they insisted until I gave in.
+
+S:はいっ！　いつでも歌って踊る準備はできてます！\\nちっちゃなステージでも大歓迎ですっ！
+T:Yes! I'm always ready to sing and dance!\\nEven the smallest stage is more than welcome!
+
+S:……まゆもやる気満々だし、[delay 0.3]\\nそもそもウチみたいな弱小は仕事を選んでいる余裕はない。
+T:...Mayu is full of enthusiasm too, [delay 0.3]\\nBesides, a small agency like ours doesn't have the luxury of being picky about work.
+
+S:……まあ、2人がいいならお引き受けしましょうか。\\n先方に連絡しておきますね。
+T:...Well, if you two are up for it, I'll accept.\\nI'll let them know in advance.
+
+S:ところで、本番はいつなんですか？
+T:By the way, when is the actual performance?
+
+S:ああ、[delay 0.3]そうだった。[delay 0.5]\\nそれも聞いておかなきゃな。
+T:Ah, [delay 0.3] that's right. [delay 0.5]\\nI need to ask about that too.
+
+S:浮かれて忘れていたが、確認が必要だ。[delay 0.5]\\nまゆはルクスプロに所属したばかり。[delay 0.5]\\n歌もダンスも、[delay 0.3]まだレッスンをしてない。
+T:I got carried away and forgot, but I need to check. [delay 0.5]\\nMayu just joined Lux Pro. [delay 0.5]\\nShe hasn't done any singing or dancing lessons yet. [delay 0.3]
+
+S:それは、その……
+T:It's... um...
+
+S:……1週間後です。
+T:...One week from now.

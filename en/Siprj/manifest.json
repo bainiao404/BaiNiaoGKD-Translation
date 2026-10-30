@@ -1,0 +1,47 @@
+{
+  "specVersion": "1.1.0",
+  "game": "Siprj",
+  "version": "1.0.0",
+  "sourceLang": "ja",
+  "targetLang": "en",
+  "generatedAt": "2026-10-29T23:47:51.889Z",
+  "hashAlgorithm": "md5",
+  "totalCount": 306,
+  "speakerFile": {
+    "file": "speaker.txt",
+    "count": 18,
+    "md5": "71a8ce7900e396c981a7b8825f76f80f"
+  },
+  "chunks": [
+    {
+      "id": "100000101",
+      "file": "chunks/100000101.txt",
+      "count": 72,
+      "md5": "28285935919ea8ceec13ecb36b81d910"
+    },
+    {
+      "id": "100000102",
+      "file": "chunks/100000102.txt",
+      "count": 65,
+      "md5": "f5612e3f5a2f2ffc5e43bce6cf5827b3"
+    },
+    {
+      "id": "100000103",
+      "file": "chunks/100000103.txt",
+      "count": 51,
+      "md5": "5236e64874f06ddb5b57ad039de01794"
+    },
+    {
+      "id": "100000201",
+      "file": "chunks/100000201.txt",
+      "count": 58,
+      "md5": "c2b18c7cc92a62c28a9731b208cc4813"
+    },
+    {
+      "id": "100000202",
+      "file": "chunks/100000202.txt",
+      "count": 60,
+      "md5": "c866196ee375dac9c106366bd11d3b20"
+    }
+  ]
+}
