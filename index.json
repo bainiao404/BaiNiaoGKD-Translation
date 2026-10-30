@@ -1,6 +1,6 @@
 {
   "structureVersion": 2,
-  "generatedAt": "2026-10-30T00:10:09.535Z",
+  "generatedAt": "2026-10-30T00:12:12.127Z",
   "languages": {
     "en": {
       "generatedAt": "2026-10-29T23:47:51.889Z",
@@ -12,7 +12,7 @@
           "chunks": 5,
           "speakerCount": 18,
           "zip": "zips/en-Siprj.zip",
-          "zipMd5": "2b8e60251c3d54bfa0729fde38fe669a",
+          "zipMd5": "45b3b7969ef1fe831668f43357fad566",
           "zipBytes": 29710
         }
       }
@@ -27,7 +27,7 @@
           "chunks": 330,
           "speakerCount": 253,
           "zip": "zips/zh-CN-Grenzex.zip",
-          "zipMd5": "0de86226b82784a7e01498ee0908c6c5",
+          "zipMd5": "2655e6d2e7063a196cfc83ab0e533833",
           "zipBytes": 2064516
         },
         "LilYangeNext": {
@@ -37,7 +37,7 @@
           "chunks": 1111,
           "speakerCount": 538,
           "zip": "zips/zh-CN-LilYangeNext.zip",
-          "zipMd5": "cd32af899ad33bea7c8b623183ba4856",
+          "zipMd5": "1317838fa19512424f043b9319c47c76",
           "zipBytes": 6821582
         },
         "RlyehShoujotaix": {
@@ -47,7 +47,7 @@
           "chunks": 705,
           "speakerCount": 386,
           "zip": "zips/zh-CN-RlyehShoujotaix.zip",
-          "zipMd5": "892543764671d6992d05dd9870edbadd",
+          "zipMd5": "9f35b14b00af93e4d70a241fee05081b",
           "zipBytes": 4018812
         },
         "Siprj": {
@@ -57,7 +57,7 @@
           "chunks": 955,
           "speakerCount": 450,
           "zip": "zips/zh-CN-Siprj.zip",
-          "zipMd5": "87d0294be6af710098bdaff01444b110",
+          "zipMd5": "194a62cb162fd3f41cd233c37baff341",
           "zipBytes": 4976984
         }
       }
